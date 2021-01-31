@@ -4,7 +4,7 @@ To use the code follow bellow steps:
 
 Step 1: Download "run_star_extras.f" file and replace it with MESA's original "run_star_extras.f" file. Next, run the code.
 
-Step 2: Download Cap_Rate.ipynb file and run it with jupyter notebook. Capture rate by different elements inside stars can be clculated using this file. (To change dark matter properties (e.g. mass of WIMPs, dark matter density, etc) just edit this code)
+Step 2: Download Cap_Rate.ipynb file and run it with jupyter notebook. Capture rate by different elements inside stars can be clculated using this file. (To change dark matter properties (e.g. mass of WIMPs, dark matter density, etc) just edit this file)
 
 # We used release 12778 of MESA stellar evolutionary code.
 
