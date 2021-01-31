@@ -11,6 +11,8 @@ Step 2: Download Cap_Rate.ipynb file and run it with jupyter notebook. Capture r
 # We used this code in the paper below:
 Title:  Capture rate of weakly interacting massive particles (WIMPs) in binary star systems.
 
+Aythors: Ebrahim Hassani (Correspoding author), Hossein Ebadi, Reza Pazhouhesh, Mohammad Hosseinirad
+
 Arxive: https://arxiv.org/abs/2009.05947v6
 
 DOI:    https://doi.org/10.1093/mnras/stab256
