@@ -9,6 +9,8 @@ Step 2: Download Cap_Rate.ipynb file and run it with jupyter notebook. Capture r
 # We used release 12778 of MESA stellar evolutionary code.
 
 # We used this code in the paper below:
-Title:  Capture rate of weakly interacting massive particles (WIMPs) in binary star systems
+Title:  Capture rate of weakly interacting massive particles (WIMPs) in binary star systems.
+
 Arxive: https://arxiv.org/abs/2009.05947v6
+
 DOI:    https://doi.org/10.1093/mnras/stab256
